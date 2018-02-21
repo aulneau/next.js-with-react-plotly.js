@@ -1,0 +1,24 @@
+{
+  "name": "next.js-with-react-plotly.js",
+  "description": "A next.js example with react-plotly.js",
+  "version": "0.0.1",
+  "author": "Thomas Osmonson <hello@ineffable.co>",
+  "bugs": {
+    "url": "https://github.com/aulneau/next.js-with-react-plotly.js/issues",
+    "email": "hello@ineffable.co"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "next": "^5.0.0",
+    "plotly.js": "^1.34.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-plotly.js": "^1.4.0"
+  },
+  "repository": "aulneau/next.js-with-react-plotly.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "start": "next start"
+  }
+}
